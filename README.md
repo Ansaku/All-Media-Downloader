@@ -44,7 +44,7 @@ python3 main.py
 
 ## Issues 
 
-   **[Submit Issues](https://github.com/Ansaku/All-Media-Downloader/issues)
+[Submit Issues](https://github.com/Ansaku/All-Media-Downloader/issues)
 
 
 ## Credits, and Thanks to 
