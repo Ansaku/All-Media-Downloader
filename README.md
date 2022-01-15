@@ -7,7 +7,7 @@ Bot Telegram sederhana, Unggah File Media| video Ke telegram menggunakan tautan 
 ```
 • Unggah HTTP/HTTPS sebagai File/Video ke Telegram.
 
-• Unggah zee5, sony.live, voot, dan banyak lagi 😋
+• Unggah zee5, sony.live, voot, dan banyak lagi 
 
 • Pesan siaran, periksa total pengguna
 
@@ -16,11 +16,11 @@ Bot Telegram sederhana, Unggah File Media| video Ke telegram menggunakan tautan 
 
 ## Deploy 🚀
 
-### Heroku Deploy 🤭
+### Heroku Deploy 
 
 [![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/Ansaku/All-Media-Downloader)
 
-### Lokal Host 🤕
+### Lokal Host 
 
 ```shell
 git clone https://github.com/Ansaku/All-Media-Downloader
@@ -29,21 +29,21 @@ pip3 install -r requirements.txt
 # EDIT sample_config.py values appropriately
 python3 main.py
 ```
-## Issues 🐛
+## Issues 
 
 [Submit Issues](https://github.com/Ansaku/All-Media-Downloader/issues)
 
-## Demo Bot 🤖
+## Demo Bot 
    **[All Media Downloader](https://t.me/allmediadwnlderbot)**
 
 
-## Situs Dukungan 🐙
+## Situs Dukungan 
    **[YouTube-dl Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html)**
 
-## Update Channel 🦄
+## Update Channel 
    **[Ansaku Bot Channel](https://t.me/ansakubotchannel)**
 
-## Credits, and Thanks to 👀
+## Credits, and Thanks to 
 
 - [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 - [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
