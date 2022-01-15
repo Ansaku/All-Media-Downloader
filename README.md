@@ -29,19 +29,23 @@ pip3 install -r requirements.txt
 # EDIT sample_config.py values appropriately
 python3 main.py
 ```
-## Issues 
-
-[Submit Issues](https://github.com/Ansaku/All-Media-Downloader/issues)
-
 ## Demo Bot 
+
    **[All Media Downloader](https://t.me/allmediadwnlderbot)**
 
 
 ## Situs Dukungan 
+
    **[YouTube-dl Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html)**
 
 ## Update Channel 
+
    **[Ansaku Bot Channel](https://t.me/ansakubotchannel)**
+
+## Issues 
+
+   **[Submit Issues](https://github.com/Ansaku/All-Media-Downloader/issues)
+
 
 ## Credits, and Thanks to 
 
