@@ -14,6 +14,11 @@ Bot Telegram sederhana, Unggah File Media| video Ke telegram menggunakan tautan 
 • Dukungan thumbnail permanen
 ```
 
+## Demo Bot 
+
+<a href="https://t.me/megadownldrbot"><img src="https://img.shields.io/badge/Mega-Downloader-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+
 ## Deploy 🚀
 
 ### Heroku Deploy 
@@ -29,10 +34,6 @@ pip3 install -r requirements.txt
 # EDIT sample_config.py values appropriately
 python3 main.py
 ```
-## Demo Bot 
-
-   **[All Media Downloader](https://t.me/allmediadwnlderbot)**
-
 
 ## Situs Dukungan 
 
