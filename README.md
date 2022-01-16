@@ -16,7 +16,7 @@ Bot Telegram sederhana, Unggah File Media| video Ke telegram menggunakan tautan 
 
 ## Demo Bot 
 
-<a href="https://t.me/allmediadwnlderbot"><img src="https://img.shields.io/badge/Demo-Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/allmediadwnlderbot"><img src="https://img.shields.io/badge/Demo_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 ## Deploy 🚀
