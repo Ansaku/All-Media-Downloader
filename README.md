@@ -31,7 +31,7 @@ Bot Telegram sederhana, Unggah File Media| video Ke telegram menggunakan tautan 
 git clone https://github.com/Ansaku/All-Media-Downloader
 cd All-Media-Downloader
 pip3 install -r requirements.txt
-# EDIT sample_config.py values appropriately
+# EDIT sample_config.py dengan tepat
 python3 main.py
 ```
 
